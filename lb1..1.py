@@ -1,3 +1,5 @@
+# //some changews have to be done so the chart can be done in increasing order
+
 def bubblesort(a,n):
  steps=0
  for i in range(1,n):
