@@ -1,3 +1,5 @@
+#main lab chai yo. yeta samah increasing order ma line graph banauna parcha
+
 import random
 
 # Initialize global variables
