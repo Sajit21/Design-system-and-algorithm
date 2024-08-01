@@ -1,3 +1,6 @@
+//random code using chatgpt which give a graphical form 
+
+
 import random
 import matplotlib.pyplot as plt
 
