@@ -1,4 +1,5 @@
 #Lab3
+#graph shuld be include using ms excel
 msteps=0
 qsteps=0
 def mergesort(a, l, r):
