@@ -1,3 +1,6 @@
+
+
+#each steps should be run for n number from 10 t0 100
 lab 1 def bubblesort(a,n):
   steps=0
   for i in range(1,n):#no of process
